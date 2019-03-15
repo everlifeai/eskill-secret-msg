@@ -1,0 +1,9 @@
+{
+  "name": "eskil-secret-msg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cote": "^0.19.1"
+  }
+}
