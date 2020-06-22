@@ -16,7 +16,7 @@ function main() {
 let msKey = 'everlife-secret-msg'
 
 const commMgrClient = new cote.Requester({
-    name: 'Calculator -> CommMgr',
+    name: 'Secret Message -> CommMgr',
     key: 'everlife-communication-svc',
 })
 
